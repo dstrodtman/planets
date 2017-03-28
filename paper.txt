@@ -1,6 +1,8 @@
 Title: A nice little paper about mars
-Authors: Douglas & Co
+Authors: Douglas & Co and Tanvi Deora
 
 Abstract: This paper is about mars and stuff, but I don't know much about it
 
 Now we collaborate! 
+
+bla bla - whatever you want to do!
