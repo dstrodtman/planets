@@ -1,2 +1,4 @@
 Title: A nice little paper about mars
 Authors: Douglas & Co
+
+Abstract: This paper is about mars and stuff, but I don't know much about it.
